@@ -8,7 +8,7 @@ these files, or add your own poems in their own text files.
 
 ## Setup
 
-* Fork the repostory.
+* Fork the repository.
 * Clone it locally.
 * Make the changes you need.
 * Create a PR.
